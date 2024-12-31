@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674626588757",
+    "project_id": "pdf-chatbot-c7384",
+    "storage_bucket": "pdf-chatbot-c7384.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674626588757:android:7905e6abdf5659044cc4dc",
+        "android_client_info": {
+          "package_name": "com.example.my_finel_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6o5_H6t051asX8EtvHJCGmUUDS1QkWNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
