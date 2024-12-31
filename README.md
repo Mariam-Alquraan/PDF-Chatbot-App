@@ -1,4 +1,4 @@
-# my_finel_project
+# PDF Chatbot
 
 A new Flutter project.
 
