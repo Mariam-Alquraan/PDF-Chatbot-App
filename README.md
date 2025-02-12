@@ -1,7 +1,7 @@
 # Chat with Your PDF
 
 ## Overview
-**Chat with Your PDF** is a mobile application that allows users to interact with PDF documents using natural language queries. The app uses **Flutter** for the frontend, **Flask** for the backend, and **Firebase** for authentication and database management. This project reduces manual search time by 50% by enabling users to quickly find information within PDFs.
+**Chat with Your PDF** is a mobile application that allows users to interact with PDF documents using natural language queries. The app uses **Flutter** for the frontend, **Flask** for the backend, and **Firebase** for authentication and database management. This project reduces manual search time by 50% and more by enabling users to quickly find information within PDFs.
 
 ## Demo
 You can see a live demo of the project on my LinkedIn profile:  
