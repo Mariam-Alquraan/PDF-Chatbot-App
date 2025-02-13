@@ -8,15 +8,33 @@ You can see a live demo of the project on my LinkedIn profile:
 👉 [Watch the Demo on LinkedIn](https://www.linkedin.com/in/mariam-alquraan/)
 
 ## Features
-- **Natural Language Queries**: Users can ask questions in plain English, and the app will search the PDF for relevant information.
-- **PDF Parsing**: Extracts text from PDFs for analysis.
-- **Responsive UI**: A clean and user-friendly interface built with Flutter.
-- **Backend Integration**: Flask backend for processing queries and extracting data from PDFs.
-- **Firebase Integration**: User authentication and database management using Firebase.
+### **📂 Upload PDFs**
+- Easily upload any PDF document to the app for analysis.
+
+### **🔍 Content Parsing**
+- Extract and analyze the text content from the PDF using advanced PDF processing libraries.
+
+### **🧠 Intelligent Question-Answering**
+- Use advanced AI language models to answer user questions based on the content of the PDF.
+
+### **💾 Multi-Platform Support**
+- Designed to work on both mobile (iOS/Android) and web platforms simultaneously.
+
+### **🌐 User-Friendly Interface**
+- A simple, intuitive interface for smooth interaction and seamless user experience.
 
 ## Technologies Used
-- **Frontend**: Flutter, Dart
-- **Backend**: Flask (Python)
-- **Database & Authentication**: Firebase
-- **APIs**: Custom Flask API for processing queries
-- **PDF Parsing**: Python libraries (PyPDF2)
+### **Frontend**
+- **Flutter** (Dart) for cross-platform mobile and web development.
+
+### **Backend**
+- **Flask** (Python) for API development and backend logic.
+
+### **PDF Text Extraction**
+- **PyPDF2**, **PyMuPDF** for extracting text from PDF files.
+
+### **Natural Language Processing**
+- **OpenAI GPT API** for understanding and generating responses to user queries.
+
+### **Database**
+- **Embeddingsdb** for storing and retrieving processed data.
